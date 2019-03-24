@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT ishfaq_sirs_e_learni_1619.wsgi:application
